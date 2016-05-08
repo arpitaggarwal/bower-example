@@ -37,4 +37,4 @@ One useful option is the directory option, which lets you to customize the folde
 }
 ```
 
-If `.bowerrc` file is present with directory location all files mentioned in `bower.json` will be loaded in the directory else in default `bower_components` directory.
+If `.bowerrc` file is present with directory location all files mentioned in `bower.json` will be loaded in the directory else in default `bower_components` directory. `.bowerrc` configuration options are listed at http://bower.io/docs/config/
